@@ -1,36 +1,16 @@
 {
-  "libs": "https://github.com/REDsubaki/xyz/raw/main/games.json",
-  "gamesList": [
+    "gamesList": [
     {
-      "title": "PUBG GLOBAL",
+      "title": "النسخة العالمية",
       "package": "com.tencent.ig",
       "version": "3.9.0",
-      "status": "Online"
+      "status": "امن"
     },
     {
-      "title": "PUBG KOREA",
+      "title": "النسخة الكورية",
       "package": "com.pubg.krmobile",
       "version": "3.9.0",
-      "status": "Online"
-    },
-      {
-        "title": "PUBG VIETNAM",
-        "package": "com.vng.pubgmobile",
-        "version": "3.9.0",
-        "status": "Online"
-      },
-    {
-      "title": "PUBG TAIWAN",
-      "package": "com.rekoo.pubgm",
-      "version": "3.9.0",
-      "status": "Online"
-    },
-      {
-        "title": "PUBG INDIA",
-        "package": "com.pubg.imobile",
-        "version": "3.9.0",
-        "status": "Online"
-      }
-  
+      "status": "امن"
+    }
   ]
 }
